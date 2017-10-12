@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "snowflake_news", "snowflake_news\snowflake_news.pyproj", "{5764BB1F-5626-4A57-B45A-27C15B143497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5764BB1F-5626-4A57-B45A-27C15B143497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5764BB1F-5626-4A57-B45A-27C15B143497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9FC1E21-749B-4A50-8EA8-987C1AF59589}
+	EndGlobalSection
+EndGlobal

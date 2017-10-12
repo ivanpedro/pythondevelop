@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "plot3D", "plot3D\plot3D.pyproj", "{2EFA6C28-A8B4-493C-8B37-55CDDBE47357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EFA6C28-A8B4-493C-8B37-55CDDBE47357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFA6C28-A8B4-493C-8B37-55CDDBE47357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C81A586-3439-4FB3-80B8-2BBDACFE886B}
+	EndGlobalSection
+EndGlobal

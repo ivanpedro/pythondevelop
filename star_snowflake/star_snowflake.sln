@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "star_snowflake", "star_snowflake\star_snowflake.pyproj", "{562D758E-9D22-435A-A6C3-798A5C70F0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562D758E-9D22-435A-A6C3-798A5C70F0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562D758E-9D22-435A-A6C3-798A5C70F0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47A34C71-4364-4056-BB62-2F723CFCBA59}
+	EndGlobalSection
+EndGlobal
