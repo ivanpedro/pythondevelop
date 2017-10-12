@@ -1,0 +1,22 @@
+go to the repository 
+
+execute cmd
+
+git status
+
+git add "file name"
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+  
+  to commit
+  git commit -m "add new.txt and add draw_turtle"
+  
+ #check files added to committed
+ git status
+  
+ git log
+ 
+ #to push files
+ git push origin master
+  
