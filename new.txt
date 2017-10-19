@@ -1,5 +1,7 @@
-go to the repository 
+#go to highub create a new repository and inicialise it with readme.
 
+#go to the repository 
+#go to gig bash or cmd
 execute cmd
 
 git status
@@ -20,3 +22,12 @@ Changes to be committed:
  #to push files
  git push origin master
   
+#the following pushes all repo to github from command line  
+ git init
+ git add .
+ git commit -m "*"
+ git remote add github "enter url"
+ git remote -v
+ git push -f github master
+ 
+ 

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "temperate_translation_funsion", "temperate_translation_funsion\temperate_translation_funsion.pyproj", "{7A0DD1FE-21E8-4D63-9A7D-7B276260829B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0DD1FE-21E8-4D63-9A7D-7B276260829B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0DD1FE-21E8-4D63-9A7D-7B276260829B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC4FF4E-9B70-44B2-A817-51C67B8ED169}
+	EndGlobalSection
+EndGlobal

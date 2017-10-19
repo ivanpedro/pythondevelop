@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "map_filter_reduce", "map_filter_reduce\map_filter_reduce.pyproj", "{A0F5FF7B-F6FD-4073-9925-0EAA70CC5398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F5FF7B-F6FD-4073-9925-0EAA70CC5398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F5FF7B-F6FD-4073-9925-0EAA70CC5398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46DD13DD-D2E9-4FEC-90A0-166D6D3F805E}
+	EndGlobalSection
+EndGlobal
