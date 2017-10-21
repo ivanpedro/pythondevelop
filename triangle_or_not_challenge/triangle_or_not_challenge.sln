@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "triangle_or_not_challenge", "triangle_or_not_challenge\triangle_or_not_challenge.pyproj", "{E9B44B43-51EA-4D5B-B42B-AD6EF622092B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B44B43-51EA-4D5B-B42B-AD6EF622092B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B44B43-51EA-4D5B-B42B-AD6EF622092B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F3BA21B-611F-45CB-A828-68A458038BE4}
+	EndGlobalSection
+EndGlobal
