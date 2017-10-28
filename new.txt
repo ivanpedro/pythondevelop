@@ -30,4 +30,18 @@ Changes to be committed:
  git remote -v
  git push -f github master
  
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/ivanpedro/cubanflow.git
+git push -u origin master
+
+or create a new repository on the command line
+
+echo "# cubanflow" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ivanpedro/cubanflow.git
+git push -u origin master
  
