@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Quadratic-time_Algorithm", "Quadratic-time_Algorithm\Quadratic-time_Algorithm.pyproj", "{E7434BA2-A7F2-4955-98E0-5CD7182753F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7434BA2-A7F2-4955-98E0-5CD7182753F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7434BA2-A7F2-4955-98E0-5CD7182753F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2949F965-337F-48CA-A8F5-15BDE24D91B9}
+	EndGlobalSection
+EndGlobal
